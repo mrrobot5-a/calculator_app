@@ -17,3 +17,11 @@ dev_dependencies:
 
 flutter:
   uses-material-design: true
+
+  assets:
+  - assets/image/
+  fonts:
+  - family: workSans
+    fonts:
+      # - asset: assets/fonts/Work_Sans/static/WorkSans-Medium.ttf
+      - asset: assets/fonts/Work_Sans/static/WorkSans-Light.ttf
