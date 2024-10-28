@@ -3,7 +3,7 @@
 This is a Flutter-based calculator app that provides basic arithmetic operations, including addition, subtraction, multiplication, division, and modulus. The app also supports clearing entries, deleting the last character, and toggling positive/negative values.
 
 ## Preivew
-<img src="https://github.com/user-attachments/assets/13c8c04b-2a53-42f0-86d2-f3a240bc392b" width="800" height="450">
+<img src="https://github.com/user-attachments/assets/962149d8-7ff8-412b-a55e-beeb888d82d4" width="800" height="450">
 
 
 ## Features
