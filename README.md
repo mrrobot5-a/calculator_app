@@ -4,9 +4,9 @@ This is a Flutter-based calculator app that provides basic arithmetic operations
 
 ## Preivew
 
+<img src="https://github.com/user-attachments/assets/3674f098-9e57-4410-b4ed-be6f15d623f2" width="800" height="450">
 
 ## Features
-![app](https://github.com/user-attachments/assets/3674f098-9e57-4410-b4ed-be6f15d623f2)
 
 
 - **Basic Operations**: Perform addition, subtraction, multiplication, division, and modulus.
