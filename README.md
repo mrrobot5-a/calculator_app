@@ -4,7 +4,7 @@ This is a Flutter-based calculator app that provides basic arithmetic operations
 
 ## Preivew
 
-<img src="https://github.com/user-attachments/assets/6d1737bc-06f3-4765-be52-820986a21042" width="800" height="450">
+<img src="https://github.com/user-attachments/assets/6d1737bc-06f3-4765-be52-820986a21042" width="400" height="400">
 
 ## Features
 
