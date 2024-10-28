@@ -10,10 +10,10 @@ This is a Flutter-based calculator app that provides basic arithmetic operations
 | Image 1       | Image 2       | Image 3       | Image 4       |
 |---------------|---------------|---------------|---------------|
 | ![Alt1](![1](https://github.com/user-attachments/assets/f14fa206-7a1b-4fa4-a419-4a13991399fb)
-) | ![Alt2](![2](https://github.com/user-attachments/assets/81ba0fd6-b6f9-4751-952a-c2473c2ec7ff)
-) | ![Alt4](![3](https://github.com/user-attachments/assets/6c93ba24-65b3-4151-b2c6-3cc42ceabd4c)
-) | ![Alt3](![4](https://github.com/user-attachments/assets/7310419b-e17f-44b3-b4a5-3441de60f2c5)
-) |
+| ![Alt2](![2](https://github.com/user-attachments/assets/81ba0fd6-b6f9-4751-952a-c2473c2ec7ff)
+| ![Alt4](![3](https://github.com/user-attachments/assets/6c93ba24-65b3-4151-b2c6-3cc42ceabd4c)
+| ![Alt3](![4](https://github.com/user-attachments/assets/7310419b-e17f-44b3-b4a5-3441de60f2c5)
+|
 
 
 ## Features
