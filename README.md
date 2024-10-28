@@ -7,20 +7,11 @@ This is a Flutter-based calculator app that provides basic arithmetic operations
 <img src="https://github.com/user-attachments/assets/3674f098-9e57-4410-b4ed-be6f15d623f2" width="500" height="500">
 
 ## Screens
-<table>
-  <tr>
-    <td><img src="![1](https://github.com/user-attachments/assets/17fdd60e-47e8-4ea6-960a-44663001d8c6)
-" width="200"></td>
-    <td><img src="![2](https://github.com/user-attachments/assets/4112228b-da42-4486-b433-5cbb689f243b)
-" width="200"></td>
-  </tr>
-  <tr>
-    <td><img src="![3](https://github.com/user-attachments/assets/5ac7aaf5-5de1-47d1-8e37-e420fa8dd5d8)
-" width="200"></td>
-    <td><img src="![4](https://github.com/user-attachments/assets/eef43cc4-dde7-4033-b989-290f06652e7c)
-" width="200"></td>
-  </tr>
-</table>
+| Image 1       | Image 2       | Image 3       | Image 4       |
+|---------------|---------------|---------------|---------------|
+| ![Alt1](![1](https://github.com/user-attachments/assets/f14fa206-7a1b-4fa4-a419-4a13991399fb)
+) | ![Alt2](https://github.com/user-attachments/assets/6d523c90-cb99-4986-a058-6e79d0a2c460) | ![Alt4](https://github.com/user-attachments/assets/c0827a80-2da5-43c1-8f25-caa92b5a9d57) | ![Alt3](https://github.com/user-attachments/assets/54cbdd60-9d6b-4c93-802a-780e973fd5d7) |
+
 
 ## Features
 
